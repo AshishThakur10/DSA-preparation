@@ -1,11 +1,8 @@
-# 
+// Problem: **Sum of Two Integers**
+// Given two integers, write a function to return their sum.
 
-Problem: **Sum of Two Integers**
-Given two integers, write a function to return their sum.
+// solution - just add the two given number
 
-solution - just add the two given number
-
-```jsx
 import java.util.Scanner;
 
 class Solution{
@@ -30,10 +27,11 @@ class Main{
 		System.out.println("Sum of two number: "+ result);
 	}
 }
-```
 
-Enter the first Number
-2
-Enter the second Number
-3
-Sum of two number: 5
+// ```
+
+// Enter the first Number
+// 2
+// Enter the second Number
+// 3
+// Sum of two number: 5
